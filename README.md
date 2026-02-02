@@ -15,7 +15,7 @@ Coming soon
 ## 🌐 Live Demo
 
 Try it live:  
-[https://bayardorj.github.io/Spam-checker/](https://bayardorj.github.io/Password-generator/)
+[https://bayardorj.github.io/Spam-checker/](https://bayardorj.github.io/Spam-checker/)
 
 ---
 
