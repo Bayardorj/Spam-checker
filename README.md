@@ -5,7 +5,7 @@
 [![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-181717?style=flat&logo=github)](https://pages.github.com/)
 
 
-- It’s a simple web tool that lets a user paste a phrase or message and check whether it might be flagged as spam (based on a classifier or some logic you implemented). It displays an input box and a “Check message” button and shows the result on the page (simple UI).
+- It’s a simple web tool that lets a user paste a phrase or message and check whether it might be flagged as spam (based on some regex features). It displays an input box and a “Check message” button and shows the result on the page.
 ---
 
 ## 🌟 Features
